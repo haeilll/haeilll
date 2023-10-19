@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Learn github**
 
-- 👯 I’m looking to collaborate on **Apple**
+- 👯 I’m looking to collaborate on **Developing some applications**
 
 - 🤝 I’m looking for help with **Apple’s Malaysia**
 
