@@ -1,16 +1,18 @@
 ### Hi there 👋
 <h1 align="center"> I'm Izz Haeil bin Hamishamsul </h1>
-<h3 align="center">A Degree Student who major on Graphic and Multimedia Software in University Technology Malaysia.I</h3>
+<h3 align="center">A Degree Student who major on Graphic and Multimedia Software in University Technology Malaysia</h3>
 
-- 🔭 I’m currently working on **Semester 1 in Computer Science's Degree**
+- 🔭 I’m currently working on *Semester 1 in Computer Science's Degree*
 
-- 👯 I’m looking to collaborate on **Developing some applications**
+- 🌱 I’m currently trying to *Fix my coding's error*
 
-- 🤝 I’m looking for help with **Apple’s Malaysia**
+- 🤔 I’m trying on *Developing Some Applications*
 
-- 📫 How to reach me **izzhaeil@graduate.utm.my**
+- 🤝 I’m looking forward on journey with *Apple’s Malaysia*
 
-- ⚡ Fun fact **introverted**
+- 📫 How to reach me *izzhaeil@graduate.utm.my*
+
+- ⚡ Fun fact *introverted* **@ "Impossible is Nothing" @** *(al-Bayyinah, 98:8)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
