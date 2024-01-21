@@ -1,8 +1,8 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Haeil</h1>
-<h3 align="center">A bachelor student who major in Graphic and multimedia software</h3>
+<h1 align="center"> I'm Izz Haeil bin Hamishamsul </h1>
+<h3 align="center">A Degree Student who major on Graphic and Multimedia Software in University Technology Malaysia.I</h3>
 
-- 🔭 I’m currently working on **Learn github**
+- 🔭 I’m currently working on **Semester 1 in Computer Science's Degree**
 
 - 👯 I’m looking to collaborate on **Developing some applications**
 
